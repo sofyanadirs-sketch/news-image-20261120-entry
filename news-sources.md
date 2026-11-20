@@ -1,99 +1,81 @@
 # News sources — Friday 20 November 2026
 
-All stories in `entry.png` were researched on 20 Nov 2026 (WIB morning)
-and are dated to that day. Most of the big events happened late on
-19 Nov in US/Europe time and were first reported in the early hours of
-20 Nov, or lead the 20 Nov editions — the same dating rule as the
-19 Nov entry (events that happened, or were first reported, on the day,
-in any time zone).
+Every fact on the front page was checked against live reporting on the
+morning of 20 November 2026 (WIB). Headlines are the page's own wording;
+figures come from the sources below.
 
-## 1. Trump pushes Iran war decision to 2027 (LEAD)
-- President Trump told Reuters, Axios and Israel's News 12 on Thu
-  19 Nov that he is "not rushing" a decision on renewed major strikes
-  against Iran: "We'll see what happens after Jan 1" / "I'll talk to
-  you about it after the beginning of the year." The decision is pushed
-  past the new year, into 2027.
-- The US Senate voted 51-48 on Thu 19 Nov to reject a war-powers
-  resolution that would have limited the president's war powers on Iran.
-- The Pentagon told lawmakers the war has cost $48.3bn as of 13 Nov.
-- Sources: Reuters via The Times of India / Newsmriti digest, 20 Nov
-  03:13
-  (https://srihayavadhana.com/newsmriti/headlines/),
-  Nexa News, "US Senate Rejects Resolution to Limit Trump Iran War
-  Powers" (https://nexa.news/us-senate-rejects-resolution-to-limit-trump-iran-war-powers),
-  Internewscast, "Trump Says He's Not Rushing Into Decision on Iran
-  in 2027"
-  (https://internewscast.com/news/trump-says-hes-not-rushing-into-decision-on-iran-in-2027/).
+## Lead: Trump, Xi and Putin declare peace (Shenzhen)
 
-## 2. ICJ: Myanmar committed genocide against the Rohingya
-- On 19 Nov 2026 the International Court of Justice ruled, 9-6, that
-  Myanmar committed genocide against the Rohingya in northern Rakhine
-  State during the 2017 clearance operations — the first time in the
-  court's 80-year history it has found a state responsible for
-  committing genocide. Myanmar was ordered to allow safe, voluntary
-  and dignified return of the displaced and to pay compensation.
-- Sources: Amnesty International USA, 19 Nov 2026
-  (https://www.amnestyusa.org/press-releases/historic-un-ruling-that-myanmar-committed-genocide-against-rohingya-is-rare-victory-for-survivors/),
-  UN Independent Investigative Mechanism for Myanmar
-  (https://iimm.un.org/en/icj-gambia-v-myanmar),
-  UN OHCHR, 19 Nov 2026
-  (https://www.ohchr.org/en/press-releases/2026/11/called-its-true-name-un-expert-welcomes-icj-genocide-verdict-myanmar).
+- First-ever trilateral meeting of the leaders of the United States, China
+  and Russia, held 19 November 2026 at Kylin Villa, Shenzhen, on the
+  sidelines of the APEC leaders' summit; talks ran about 90 minutes.
+- The four-point "Declaration toward Peace": reform the United Nations,
+  increase production and supply of refined petroleum products, uphold the
+  immunity of state officials, and "conduct a dialogue on reducing nuclear
+  risks and preventing the proliferation of nuclear weapons".
+- The declaration reaffirms that "a nuclear war cannot be won and must
+  never be fought". It sets no date for the nuclear dialogue and mentions
+  neither Ukraine, Iran, Taiwan nor trade. New START, the last US-Russia
+  strategic arms treaty, expired in February 2026.
+- Trump called the summit "bigger than Yalta".
+- Sources: Reuters (via BBC/Bermuda Broadcasting and Council on Foreign
+  Relations), Associated Press, Xinhua/Kremlin/White House texts.
 
-## 3. Trump, Xi and Putin hold first-ever three-way summit
-- US President Donald Trump, Chinese President Xi Jinping and Russian
-  President Vladimir Putin held their first-ever trilateral meeting in
-  Shenzhen, China, on 19 Nov during the APEC summit, discussing
-  nuclear risks, energy security and international conflicts.
-- Sources: The Times of India / Education Times, 20 Nov 2026
-  (https://www.educationtimes.com/news/school-assembly-news-headlines-for-november-20-2026-top-national-international-sports-and-business-news/articleshow/135990545.cms),
-  Studmentor news headlines, 20 Nov 2026
-  (https://studmentor.in/news-headlines-for-school-assembly-20-november-2026/).
+## The Hague: Myanmar guilty of genocide
 
-## 4. Houthi missile hits Riyadh's PIF Tower
-- A suspected Houthi missile struck the Public Investment Fund Tower
-  in Riyadh on Thu 19 Nov, blowing out windows across seven to eight
-  floors and bending parts of its metal facade. The 80-storey,
-  385-metre tower is the tallest in the city and houses the Saudi
-  sovereign wealth fund's HQ. No injuries reported. Second strike on
-  Riyadh's financial district in 11 days (Aramco building hit 8 Nov).
-- Sources: Reuters via Sowetan, 19 Nov 2026
-  (https://www.sowetan.co.za/news/world/2026-11-19-riyadhs-tallest-skyscraper-hit-in-houthi-strike-on-saudi-wealth-fund-hq/),
-  BusinessDay, 19 Nov 2026
-  (https://businessday.ng/world/article/houthi-missile-strikes-saudi-sovereign-wealth-fund-headquarters-in-riyadh/?amp).
+- The International Court of Justice ruled Myanmar committed genocide
+  against the Rohingya minority — the first ruling ever that a state
+  committed genocide — finding six violations of the 1948 Genocide
+  Convention over the 2017 crackdown.
+- Sources: BBC, Le Monde.
 
-## 5. Cyclone Akvan makes landfall today
-- Severe Cyclonic Storm Akvan crosses the coast near Gopalpur, Odisha,
-  around noon on Fri 20 Nov, with sustained winds 90-100 km/h gusting
-  to 110 km/h. Odisha evacuated 1,05,304 people to 1,224 shelters by
-  Thu afternoon (target: two lakh, zero casualties).
-- Sources: NewsXphere, 19 Nov 2026
-  (https://www.newsxphere.com/world/cyclone-akvan-landfall-odisha-gopalpur-2026/),
-  ZenitMap, "Cyclone Akvan India"
-  (https://zenitmap.com/en/guides/cyclone-akvan-india-2026/),
-  IMD bulletins, 19 Nov 2026.
+## India: Cyclone Akvan hits today
 
-## 6. Voyager 1 reaches one light-day from Earth
-- NASA confirmed Voyager 1's "light-day" distance milestone — after
-  nearly 50 years in flight, the probe is a full light-day from Earth.
-- Source: Newsmriti daily digest, 20 Nov 2026, citing Marketscreener
-  and 4 other outlets (https://srihayavadhana.com/newsmriti/headlines/).
+- Severe Cyclonic Storm Akvan was forecast by the India Meteorological
+  Department (IMD) to cross the north Andhra Pradesh, Yanam and south
+  Odisha coasts between Narsapur and Puri, close to east of Gopalpur,
+  around noon IST on Friday 20 November, with sustained winds of
+  90–100 km/h gusting to 110 km/h.
+- More than 300,000 people evacuated in Odisha (over 3 lakh, per the Chief
+  Minister's review on 20 November); 423 rescue teams deployed; 47 trains
+  cancelled; schools shut in 11 districts. No deaths reported before
+  landfall.
+- Sources: IMD bulletins, ANI, PTI via The Daily Jagran / Daily Prabhat.
 
-## 7. GTA VI sales pass $1.8bn in a day
-- GTA 6 sales have already surpassed The Odyssey's $1.80bn global run
-  — one day of sales beats a whole blockbuster film's worldwide gross.
-- Source: Newsmriti daily digest, 20 Nov 2026, citing Mezha and 4
-  other outlets (https://srihayavadhana.com/newsmriti/headlines/).
+## Washington: Senate keeps the Iran war going
 
-## Ticker items
-- **Hayabusa2:** engine trouble forces Japan's Hayabusa2 probe to
-  drop its asteroid landing plans. (Space + 4 outlets, via Newsmriti,
-  20 Nov 2026.)
-- **Anthropic:** AI company Anthropic reportedly reaches a $1.5
-  trillion valuation. (Education Times, 20 Nov 2026.)
-- **Fiji:** Fiji declared a national state of disaster due to severe
-  drought and widespread water shortages. (Studmentor, 20 Nov 2026.)
+- On 19 November the US Senate rejected the war-powers resolution that
+  would have directed President Trump to end hostilities in Iran, voting
+  51–48 to defeat it (Roll Call Vote 269). Three Republicans voted yes
+  (Collins, Murkowski, Paul); one Democrat voted no (Fetterman).
+- Pentagon comptroller nominee Arthur Miller told the Senate Armed Services
+  Committee the war had cost $48.3 billion as of 13 November, covering
+  munitions, equipment replacement and operations — not the cost of
+  rebuilding US bases hit by Iranian strikes.
+- Sources: Reuters, Senate roll call reporting.
 
-## Research date
-20 November 2026, ~07:35-08:00 WIB. All stories are from 20 Nov 2026
-news coverage (some events occurred late 19 Nov and lead the 20 Nov
-editions; the Trump Iran quotes were published ~03:00-03:13 on 20 Nov).
+## Markets: Anthropic's $81bn IPO
+
+- Anthropic priced its IPO at $83 a share on 18 November, raising $81.3
+  billion — the largest stock-market debut on record, passing SpaceX's
+  June 2026 offering. Shares began trading on Nasdaq under the ticker ANT
+  on 19 November and opened at $111.50, about 34% above the offer price.
+- The listing values the company at about $1.5 trillion fully diluted —
+  briefly beyond $2 trillion at the open. It is the first frontier AI lab
+  to go public.
+- Sources: Bloomberg/BusinessWorld, CNBC, dpa-AFX/TradingView.
+
+## Ticker
+
+- **Haiti:** security forces' offensive to retake the Martissant corridor
+  leaves 34 suspected gang members dead (France 24).
+- **Venezuela:** the United States and Venezuela sign an agreement to
+  restore military cooperation, less than a year after Maduro's ouster
+  (US Defence Secretary; BBC).
+- **Ukraine:** Ukrainian attack on the Crimean (Kerch) Bridge disrupts
+  railway traffic between Russia and Crimea (BBC).
+- **Fiji:** Fiji declares a national state of disaster over severe drought
+  and water shortages (El Niño conditions).
+- **South Korea:** the Supreme Court overturns the conviction of former
+  Prime Minister Han Duck-soo in the case linked to the 2024 martial-law
+  declaration.
