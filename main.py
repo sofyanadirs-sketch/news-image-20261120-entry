@@ -485,17 +485,21 @@ def _chunk(tag, data):
             struct.pack(">I", zlib.crc32(tag + data) & 0xFFFFFFFF))
 
 
-def write_png(path, cv):
+def encode_png(cv):
     raw = bytearray()
     for y in range(cv.h):
         raw.append(0)  # filter: none, every row
         start = y * cv.w * 3
         raw += cv.px[start:start + cv.w * 3]
     ihdr = struct.pack(">IIBBBBB", cv.w, cv.h, 8, 2, 0, 0, 0)
-    data = (b"\x89PNG\r\n\x1a\n"
+    return (b"\x89PNG\r\n\x1a\n"
             + _chunk(b"IHDR", ihdr)
             + _chunk(b"IDAT", zlib.compress(bytes(raw), 9))
             + _chunk(b"IEND", b""))
+
+
+def write_png(path, cv):
+    data = encode_png(cv)
     with open(path, "wb") as f:
         f.write(data)
     return data
@@ -506,13 +510,16 @@ def main():
     parent = os.path.dirname(out)
     if parent:
         os.makedirs(parent, exist_ok=True)
-    data = write_png(out, build())
+    data = encode_png(build())
     digest = hashlib.sha256(data).hexdigest()
     size = len(data)
-    print(f"wrote {out}  {size} bytes  sha256={digest}")
     if size > 1024 * 1024:
-        print("ERROR: over the 1 MiB cap", file=sys.stderr)
+        print(f"ERROR: {size} bytes, over the 1 MiB cap — not written",
+              file=sys.stderr)
         return 1
+    with open(out, "wb") as f:
+        f.write(data)
+    print(f"wrote {out}  {size} bytes  sha256={digest}")
     return 0
 
 
